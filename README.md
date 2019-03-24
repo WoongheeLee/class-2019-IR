@@ -14,7 +14,6 @@ Contact:
 * Learn about the state-of-the-art in IR research. 
 
 ## IMPORTANT NOTICE
-* Team up until Mar. 14 & tell TA your team's Github repository (forked from https://github.com/nongaussian/tinyse-submit).
 * Stage 1 due date -> Mar. 28 (Thu) 11:59pm
 
 ## Week 1.
@@ -33,4 +32,8 @@ Contact:
 * Intro to Github (See IR-stage1-github.pdf)
 * Stage 1. Tokenization (See IR-stage1.pdf)
 * Stage 1 due date -> Mar. 28 (Thu) 11:59pm
+
+## Week 4.
+
+* External mergesort (See IR03-1-externalsort.pdf)
 
