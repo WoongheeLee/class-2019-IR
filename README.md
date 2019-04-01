@@ -37,3 +37,8 @@ Contact:
 
 * External mergesort (See IR03-1-externalsort.pdf)
 
+## Week 5.
+
+* External mergesort
+* MapReduce (See IR03-2-mapreduce.pdf)
+
