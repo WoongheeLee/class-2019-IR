@@ -14,7 +14,7 @@ Contact:
 * Learn about the state-of-the-art in IR research. 
 
 ## IMPORTANT NOTICE
-* Stage 1 due date -> Mar. 28 (Thu) 11:59pm
+* Stage 2 due date -> Apr. 25 (Thu) 11:59pm
 
 ## Week 1.
 
@@ -31,7 +31,6 @@ Contact:
 * Tokenization (See IR02-tokenization.pdf)
 * Intro to Github (See IR-stage1-github.pdf)
 * Stage 1. Tokenization (See IR-stage1.pdf)
-* Stage 1 due date -> Mar. 28 (Thu) 11:59pm
 
 ## Week 4.
 
