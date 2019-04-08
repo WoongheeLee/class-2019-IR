@@ -40,5 +40,10 @@ Contact:
 ## Week 5.
 
 * External mergesort
+* File I/O in Java (See IR-stage2-javaio.pdf)
+
+## Week 6. 
+
+* Sample codes of Stage 1 and Stage 2 (See IR-stage1-sample.pdf and IR-stage2-sample.pdf)
 * MapReduce (See IR03-2-mapreduce.pdf)
 
