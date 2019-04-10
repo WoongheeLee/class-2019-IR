@@ -45,4 +45,5 @@ Contact:
 
 * Sample codes of Stage 1 and Stage 2 (See IR-stage1-sample.pdf and IR-stage2-sample.pdf)
 * MapReduce (See IR03-2-mapreduce.pdf)
+* Practice MapReduce programming with matrix multiplication (See IR03-3-mapreduce-matmul.pdf)
 
