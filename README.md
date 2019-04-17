@@ -47,3 +47,6 @@ Contact:
 * MapReduce (See IR03-2-mapreduce.pdf)
 * Practice MapReduce programming with matrix multiplication (See IR03-3-mapreduce-matmul.pdf)
 
+## Week 7.
+
+* B+-tree (See IR04-1-btree.pdf)
