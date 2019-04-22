@@ -50,3 +50,9 @@ Contact:
 ## Week 7.
 
 * B+-tree (See IR04-1-btree.pdf)
+
+## Week 8.
+
+* B+-tree (See IR04-1-btree.pdf)
+* Stage 2 deadline: Apr 25 (Thu)
+* Stage 2 Q&A and consulting: Apr 25 (Thu)
