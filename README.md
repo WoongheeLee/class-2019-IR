@@ -14,7 +14,7 @@ Contact:
 * Learn about the state-of-the-art in IR research. 
 
 ## IMPORTANT NOTICE
-* Stage 1 due date -> Mar. 28 (Thu) 11:59pm
+* Stage 2 due date -> Apr. 25 (Thu) 11:59pm
 
 ## Week 1.
 
@@ -31,9 +31,28 @@ Contact:
 * Tokenization (See IR02-tokenization.pdf)
 * Intro to Github (See IR-stage1-github.pdf)
 * Stage 1. Tokenization (See IR-stage1.pdf)
-* Stage 1 due date -> Mar. 28 (Thu) 11:59pm
 
 ## Week 4.
 
 * External mergesort (See IR03-1-externalsort.pdf)
 
+## Week 5.
+
+* External mergesort
+* File I/O in Java (See IR-stage2-javaio.pdf)
+
+## Week 6. 
+
+* Sample codes of Stage 1 and Stage 2 (See IR-stage1-sample.pdf and IR-stage2-sample.pdf)
+* MapReduce (See IR03-2-mapreduce.pdf)
+* Practice MapReduce programming with matrix multiplication (See IR03-3-mapreduce-matmul.pdf)
+
+## Week 7.
+
+* B+-tree (See IR04-1-btree.pdf)
+
+## Week 8.
+
+* B+-tree (See IR04-1-btree.pdf)
+* Stage 2 deadline: Apr 25 (Thu)
+* Stage 2 Q&A and consulting: Apr 25 (Thu)
