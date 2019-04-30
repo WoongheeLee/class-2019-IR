@@ -16,6 +16,7 @@ Contact:
 ## IMPORTANT NOTICE
 * Stage 2 due date -> Apr. 25 (Thu) 11:59pm
 * A large test dataset for Stage 2 is accessible [here](https://1drv.ms/f/s!AuS4E8bOdN2BldVfystkpncHkf91UQ).
+* Dataset for stage 3 is accessible [here](https://1drv.ms/f/s!AuS4E8bOdN2BldV5GneMyowk01G9GA) 
 
 ## Week 1.
 
